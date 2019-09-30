@@ -8,7 +8,7 @@ function App() {
         <img src = { logo }
         className = "App-logo"
         alt = "logo" />
-        <p> Welcome to reactjs</p>
+        <p> Welcome to Codaisseur</p>
         <p>Edit < code > src / App.js < /code> and save to reload. </p > 
         <p>Here you will learn some very awesome React principles</p>
         <a className = "App-link"
