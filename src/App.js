@@ -6,9 +6,9 @@ import Title from "./components/Title"
 function App() {
     return ( <div className = "App" >
         <main> 
-        <Title />
+        <Title content= "Some Simple Title" />
         </main>
-        
+
         <header className = "App-header" >
         <img src = { logo }
         className = "App-logo"
